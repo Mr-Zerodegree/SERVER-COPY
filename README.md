@@ -4,7 +4,7 @@
 
 ইন্সটল প্রসেস :
 
-git clone https://github.com/TUHIN-143/SERVER-COPY
+git clone https://github.com/Mr-Zerodegree/SERVER-COPY
 
 ls
 
